@@ -44,4 +44,5 @@ Return the better compression of compressed .
 - $1$ `<=` `compressed.length` `<=` $6 * 104$
 - `compressed` consists only of lowercase English letters and digits.
 - `compressed` is a valid compression, i.e., each character is followed by its frequency.
- Frequencies are in the range [1, 104] and have no leading zeroes.
+ Frequencies are in the range [1, 104] and have no leading zeroes. 
+ 
